@@ -226,3 +226,53 @@ h6,
   padding: 15px;
   border: #ccc 1px solid;
 }
+
+.comments {
+  border: 1px blue solid;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.comments h3,
+.comments h2 {
+  background: #0e4c8a;
+  color: #fff;
+  padding: 5px;
+}
+
+.comment-body {
+  border: #ccc solid 1px;
+  margin-bottom: 10px;
+  padding: 20px 10px;
+}
+
+.comment meta {
+  background: #0e4c8a;
+  color: #fff;
+  padding: 10px;
+  overflow: auto;
+}
+
+.comment-meta a {
+  color: #fff;
+}
+
+.comment-meta img {
+  float: left;
+  margin-right: 10px;
+}
+
+.comment-reply-link {
+  background: #0e4c8a;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 15px;
+}
+
+.comment-form input. .comment-form textarea {
+  width: 100%;
+  padding: 4px;
+  border: #ccc solid 1px;
+  margin-bottom: 15px;
+}
